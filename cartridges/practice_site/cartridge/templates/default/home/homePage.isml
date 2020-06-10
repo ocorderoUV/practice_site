@@ -20,7 +20,7 @@
     <iscomment>
          ISML templates that use functionality such as: remote include
     </iscomment>
-    <isinclude url="${URLUtils.url('Account-Header')}">
+    <isinclude url="${URLUtils.url('Account-Header')}"/>
 
     <div class="container home-categories homepage">
         <div class="row home-main-categories no-gutters">
